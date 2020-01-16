@@ -5,6 +5,7 @@ forest-ho9
 
 @http
 get /api
+post /dog
 
 @tables
 data
